@@ -32,5 +32,5 @@
 
 ### 3. 트랜잭션 3 : 주문 상태를 인터페이스 완료 상태로 변경한다.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
