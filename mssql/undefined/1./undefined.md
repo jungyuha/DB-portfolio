@@ -4,7 +4,7 @@
 
 ### 1. 트랜잭션 1 : 인터페이스 대상 주문을 조회하여 커서에 담는다.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 #### 취소 중인 주문도 커서에 담길 수 있는 이유
 
@@ -16,7 +16,7 @@
 
 ### 2. 트랜잭션 2 : 인터페이스 최종 대상 주문을 선별한다.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 취소 주문건에 대한 인터페이스 오류 발생
 
@@ -32,5 +32,5 @@
 
 ### 3. 트랜잭션 3 : 주문 상태를 인터페이스 완료 상태로 변경한다.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
