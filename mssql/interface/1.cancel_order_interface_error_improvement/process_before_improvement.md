@@ -4,7 +4,7 @@
 
 ### 1. 트랜잭션 1 : 인터페이스 대상 주문을 조회하여 커서에 담는다.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 #### 취소 중인 주문도 커서에 담길 수 있는 이유
 
